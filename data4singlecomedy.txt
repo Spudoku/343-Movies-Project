@@ -1,0 +1,3 @@
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+D, 10, Phillippe De Broca, King of Hearts, 1967
+D, 10, Steven Spielberg, Schindler's List, 1993
